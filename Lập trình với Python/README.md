@@ -7255,7 +7255,7 @@ Công ty XYZ mỗi năm đều cập nhật hồ sơ và gán lại mã cho nhâ
  
 Dựa trên loại nhân viên và số năm công tác, hệ số nhân để tính lương được cho trong bảng sau:
 
-![](img\PYKT094_0.png)
+![](./img\PYKT094_0.png)
 
 Mỗi nhân viên theo hợp đồng sẽ có một giá trị lương cơ bản có thể rất khác nhau. Lương tháng được tính bằng tích của lương cơ bản với số ngày công và hệ số nhân.
 
