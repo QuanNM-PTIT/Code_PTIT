@@ -28,15 +28,15 @@ Với mỗi bộ test, ghi ra số đỉnh thắt của cặp đỉnh (u,v)
 
 ### PY02064 - BIỂU THỨC TOÁN HỌC
 
-Cho dãy số a\[\] gồm có N phần tử. Nhiệm vụ của bạn là xác định nhóm chỉ số ![](img\PY02064_0.png) sao cho biểu thức dưới đây đạt giá trị lớn nhất.
+Cho dãy số a\[\] gồm có N phần tử. Nhiệm vụ của bạn là xác định nhóm chỉ số ![](./img/PY02064_0.png) sao cho biểu thức dưới đây đạt giá trị lớn nhất.
 
-![](img\PY02064_1.png)
+![](./img/PY02064_1.png)
 
 **Dữ liệu vào:**
 
 - Dòng đầu tiên là số lượng bộ test T (T ≤ 10).
 - Mỗi test bắt đầu bởi hai số nguyên N và K. (0 ≤ 5K ≤ N ≤ 1000).
-- Dòng tiếp theo mô tả dãy số ![](img\PY02064_2.png).
+- Dòng tiếp theo mô tả dãy số ![](./img/PY02064_2.png).
  
 **Kết quả:**
 
@@ -495,7 +495,7 @@ Ví dụ với dãy số: 3 17 15 18 11 22 12 23 21 7 9 13
 
 Thì ta sẽ có 4 cách sắp xếp các số trên vào ngôi sao là:
 
-![](img\PYKT14003_0.png)
+![](./img/PYKT14003_0.png)
 
 Bài toán đặt ra là cho trước dãy 12 số nguyên. Hãy đếm số cách xếp các số đó vào ngôi sao sáu cạnh để được dạng Hexagram như mô tả trên.
 
@@ -1047,18 +1047,18 @@ Trong chiêm tinh học phương Tây, các cung Hoàng Đạo là mười hai c
  | **Cung** | **Tên cung** | **Thời gian** |  |
 |---|---|---|---|
 |  |
-| [![](img\ICPC0118_0.png)](https://vi.wikipedia.org/wiki/File:Aries.svg) | Bach Duong | 21 tháng 3 - 19 tháng 4 |  |
-| [![](img\ICPC0118_1.png)](https://vi.wikipedia.org/wiki/File:Taurus.svg) | Kim Nguu | 20 tháng 4 - 20 tháng 5 |  |
-| [![](img\ICPC0118_2.png)](https://vi.wikipedia.org/wiki/File:Gemini.svg) | Song Tu | 21 tháng 5 - 20 tháng 6 |  |
-| [![](img\ICPC0118_3.png)](https://vi.wikipedia.org/wiki/File:Cancer.svg) | Cu Giai | 21 tháng 6 - 22 tháng 7 |  |
-| [![](img\ICPC0118_4.png)](https://vi.wikipedia.org/wiki/File:Leo.svg) | Su Tu | 23 tháng 7 - 22 tháng 8 |  |
-| [![](img\ICPC0118_5.png)](https://vi.wikipedia.org/wiki/File:Virgo.svg) | Xu Nu | 23 tháng 8 - 22 tháng 9 |  |
-| [![](img\ICPC0118_6.png)](https://vi.wikipedia.org/wiki/File:Libra.svg) | Thien Binh | 23 tháng 9 - 22 tháng 10 |  |
-| [![](img\ICPC0118_7.png)](https://vi.wikipedia.org/wiki/File:Scorpio.svg) | Thien Yet | 23 tháng 10 - 22 tháng 11 |  |
-| [![](img\ICPC0118_8.png)](https://vi.wikipedia.org/wiki/File:Sagittarius.svg) | Nhan Ma | 23 tháng 11 - 21 tháng 12 |  |
-| [![](img\ICPC0118_9.png)](https://vi.wikipedia.org/wiki/File:Capricorn.svg) | Ma Ket | 22 tháng 12 - 19 tháng 1 |  |
-| [![](img\ICPC0118_10.png)](https://vi.wikipedia.org/wiki/File:Aquarius.svg) | Bao Binh | 20 tháng 1 - 18 tháng 2 |  |
-| [![](img\ICPC0118_11.png)](https://vi.wikipedia.org/wiki/File:Pisces.svg) | Song Ngu | 19 tháng 2 - 20 tháng 3 |  |
+| [![](./img/ICPC0118_0.png)](https://vi.wikipedia.org/wiki/File:Aries.svg) | Bach Duong | 21 tháng 3 - 19 tháng 4 |  |
+| [![](./img/ICPC0118_1.png)](https://vi.wikipedia.org/wiki/File:Taurus.svg) | Kim Nguu | 20 tháng 4 - 20 tháng 5 |  |
+| [![](./img/ICPC0118_2.png)](https://vi.wikipedia.org/wiki/File:Gemini.svg) | Song Tu | 21 tháng 5 - 20 tháng 6 |  |
+| [![](./img/ICPC0118_3.png)](https://vi.wikipedia.org/wiki/File:Cancer.svg) | Cu Giai | 21 tháng 6 - 22 tháng 7 |  |
+| [![](./img/ICPC0118_4.png)](https://vi.wikipedia.org/wiki/File:Leo.svg) | Su Tu | 23 tháng 7 - 22 tháng 8 |  |
+| [![](./img/ICPC0118_5.png)](https://vi.wikipedia.org/wiki/File:Virgo.svg) | Xu Nu | 23 tháng 8 - 22 tháng 9 |  |
+| [![](./img/ICPC0118_6.png)](https://vi.wikipedia.org/wiki/File:Libra.svg) | Thien Binh | 23 tháng 9 - 22 tháng 10 |  |
+| [![](./img/ICPC0118_7.png)](https://vi.wikipedia.org/wiki/File:Scorpio.svg) | Thien Yet | 23 tháng 10 - 22 tháng 11 |  |
+| [![](./img/ICPC0118_8.png)](https://vi.wikipedia.org/wiki/File:Sagittarius.svg) | Nhan Ma | 23 tháng 11 - 21 tháng 12 |  |
+| [![](./img/ICPC0118_9.png)](https://vi.wikipedia.org/wiki/File:Capricorn.svg) | Ma Ket | 22 tháng 12 - 19 tháng 1 |  |
+| [![](./img/ICPC0118_10.png)](https://vi.wikipedia.org/wiki/File:Aquarius.svg) | Bao Binh | 20 tháng 1 - 18 tháng 2 |  |
+| [![](./img/ICPC0118_11.png)](https://vi.wikipedia.org/wiki/File:Pisces.svg) | Song Ngu | 19 tháng 2 - 20 tháng 3 |  |
 
 Ví dụ: nếu sinh nhật của một người là vào ngày 5 tháng 5, thì họ là Kim Ngưu, vì nó nằm trong khoảng từ ngày 21 tháng 4 đến ngày 20 tháng 5.
 
@@ -1910,7 +1910,7 @@ Cho ma trận vuông cấp N\*N chỉ bao gồm các số nguyên dương.
 
 Với đường chéo chính, ta sẽ chia ma trận thành 2 nửa, được gọi là nửa trên và nửa dưới của đường chéo chính (không tính các phần tử nằm trên đường chéo chính).
 
-![](img\PY02039_0.jpg)
+![](./img/PY02039_0.jpg)
 
 Độ chênh lệch của ma trận được tính bằng trị tuyệt đối khi lấy **tổng giá trị các phần tử ở nửa trên** trừ đi **tổng giá trị các phần tử ở nửa dưới**.
 
@@ -1944,7 +1944,7 @@ Cho ma trận vuông cấp N\*N chỉ bao gồm các số nguyên dương.
 
 Với đường chéo phụ, ta sẽ chia ma trận thành 2 nửa, được gọi là nửa trên và nửa dưới của đường chéo phụ (không tính các phần tử nằm trên đường chéo phụ).
 
-![](img\PY02040_0.jpg)
+![](./img/PY02040_0.jpg)
 
 Độ chênh lệch của ma trận được tính bằng trị tuyệt đối khi lấy **tổng giá trị các phần tử ở nửa trên** trừ đi **tổng giá trị các phần tử ở nửa dưới**.
 
@@ -2175,7 +2175,7 @@ Cho ma trận vuông cấp N\*N chỉ bao gồm các số nguyên dương.
 
 Với đường chéo chính, ta sẽ chia ma trận thành 2 nửa, được gọi là nửa trên và nửa dưới của đường chéo chính (không tính các phần tử nằm trên đường chéo chính).
 
-![](img\PY02052_0.jpg)
+![](./img/PY02052_0.jpg)
 
 Độ chênh lệch của ma trận được tính bằng trị tuyệt đối khi lấy **tổng giá trị các phần tử ở nửa trên** trừ đi **tổng giá trị các phần tử ở nửa dưới**.
 
@@ -2209,7 +2209,7 @@ Cho ma trận vuông cấp N\*N chỉ bao gồm các số nguyên dương.
 
 Với đường chéo phụ, ta sẽ chia ma trận thành 2 nửa, được gọi là nửa trên và nửa dưới của đường chéo phụ (không tính các phần tử nằm trên đường chéo phụ).
 
-![](img\PY02053_0.jpg)
+![](./img/PY02053_0.jpg)
 
 Độ chênh lệch của ma trận được tính bằng trị tuyệt đối khi lấy **tổng giá trị các phần tử ở nửa trên** trừ đi **tổng giá trị các phần tử ở nửa dưới**.
 
@@ -2417,19 +2417,19 @@ Với mỗi bộ test, ghi ra số lượng cặp (x, y) thỏa mãn điều ki�
 
 Phép tích chập (convolution) là kỹ thuật quan trọng trong xử lý ảnh. Kết quả phép tích chập giữa ma trận x\[\] và ma trận kernel h\[\] được xác định bằng công thức:
 
-![](img\PY02061_0.png)
+![](./img/PY02061_0.png)
 
 Trong đó ma trận kernel có kích thước bằng 2k+1. Với kernel 3x3 thì -1 ≤ u,v ≤ 1, do đó, giá trị các phần tử của ma trận kết quả có dạng:
 
-![](img\PY02061_1.png)
+![](./img/PY02061_1.png)
 
 Cho ma trận ảnh và ma trận kernel 3x3. Nhiệm vụ của bạn là hãy thực hiện phép nhân tích chập của 2 ma trận, sau đó tính **tổng tất cả các phần tử của ma trận thu được.**
 
-![](img\PY02061_2.png)
+![](./img/PY02061_2.png)
 
 Giải thích test: Vị trí ô đầu tiên của ma trận kết quả:
 
-![](img\PY02061_3.png)
+![](./img/PY02061_3.png)
 
 **Dữ liệu vào:**
 
@@ -2571,7 +2571,7 @@ In ra một số nguyên là tổng các phần tử của dãy số B\[\] tìm 
 
 Phương pháp làm mịn ảnh được thực hiện bằng cách sử dụng phép tích chập (convolution) giữa ma trận ảnh và một ma trận kernel có dạng:
 
-![](img\PY02068_0.png)
+![](./img/PY02068_0.png)
 
 Ma trận kernel trong ví dụ trên có kích thước bằng 5. Với ma trận kernel có kích thước L = 2k + 1, giá trị điểm ảnh *(i,j)* của ma trận mới sẽ bằng tổng của (2k + 1) x (2k + 1) phần tử (*i+u, j+v)* với mọi –k ≤ u,v ≤ k, sau đó chia cho (2k + 1) x (2k + 1). Kết quả điểm ảnh mới thu được sau khi thực hiện phép chia sẽ được làm tròn xuống.
 
@@ -2723,7 +2723,7 @@ Trên sân thi đấu có giới hạn 109 x 109, các chú robot sử dụng c�
 
 Hình vẽ dưới đây minh họa các hướng di chuyển của robot trên một sân thi đấu có sẵn, các vị trí đánh dấu X mô tả robot không được đi theo hướng này.
 
-![](img\PY02091_0.png)
+![](./img/PY02091_0.png)
 
 Nhiệm vụ của bạn là hãy lập chương trình để di chuyển robot vị trí (xA, yA) tới vị trí (xB, yB) với số bước ít nhất. Input đảm bảo hai vị trí A và B chắc chắn đã được kẻ vạch.
 
@@ -3766,30 +3766,30 @@ In ra một số nguyên duy nhất là số cặp nghịch thế tìm được.
 
 ### PYKT13007 - TỔNG CHUỖI MA TRẬN
 
-Phép cộng hai ma trận có cùng kích thước ![](img\PYKT13007_0.png) , ma trận tổng ![](img\PYKT13007_1.png)  có kích thước ![](img\PYKT13007_0.png) , phần tử đứng ở hàng thứ ![](img\PYKT13007_3.png) , cột thứ ![](img\PYKT13007_4.png)  xác định bởi:
+Phép cộng hai ma trận có cùng kích thước ![](./img/PYKT13007_0.png) , ma trận tổng ![](./img/PYKT13007_1.png)  có kích thước ![](./img/PYKT13007_0.png) , phần tử đứng ở hàng thứ ![](./img/PYKT13007_3.png) , cột thứ ![](./img/PYKT13007_4.png)  xác định bởi:
 
-![](img\PYKT13007_5.png)
+![](./img/PYKT13007_5.png)
 
-Phép nhân hai ma trận chỉ thực hiện được khi số cột của ma trận bên trái bằng số dòng của ma trận bên phải. Nếu ma trận ![](img\PYKT13007_6.png)  có kích thước  ![](img\PYKT13007_7.png) và ma trận ![](img\PYKT13007_8.png)  có kích thước ![](img\PYKT13007_9.png) , thì ma trận tích ![](img\PYKT13007_10.png)  có kích thước ![](img\PYKT13007_11.png) , phần tử đứng ở hàng thứ ![](img\PYKT13007_3.png) , cột thứ ![](img\PYKT13007_4.png)  xác định bởi:
+Phép nhân hai ma trận chỉ thực hiện được khi số cột của ma trận bên trái bằng số dòng của ma trận bên phải. Nếu ma trận ![](./img/PYKT13007_6.png)  có kích thước  ![](./img/PYKT13007_7.png) và ma trận ![](./img/PYKT13007_8.png)  có kích thước ![](./img/PYKT13007_9.png) , thì ma trận tích ![](./img/PYKT13007_10.png)  có kích thước ![](./img/PYKT13007_11.png) , phần tử đứng ở hàng thứ ![](./img/PYKT13007_3.png) , cột thứ ![](./img/PYKT13007_4.png)  xác định bởi:
 
-*,11,,22,+..+*![](img\PYKT13007_14.png)
+*,11,,22,+..+*![](./img/PYKT13007_14.png)
 
 Phép nhân ma trận có các tính chất sau:
 
-- Tính chất kết hợp: *×(*![](img\PYKT13007_15.png) ;
+- Tính chất kết hợp: *×(*![](./img/PYKT13007_15.png) ;
 - Tính chất phân phối:
  
-![](img\PYKT13007_16.png) ;
+![](./img/PYKT13007_16.png) ;
 
 Cần chú ý rằng phép nhân ma trận không giao hoán.
 
 Ví dụ,
 
-*;* ![](img\PYKT13007_17.png) ; ...
+*;* ![](./img/PYKT13007_17.png) ; ...
 
-![](img\PYKT13007_18.png)
+![](./img/PYKT13007_18.png)
 
-***Yêu cầu:*** Cho ma trận ![](img\PYKT13007_6.png)  kích thước ![](img\PYKT13007_20.png)  và số nguyên dương ![](img\PYKT13007_21.png) , hãy tính *+..+*![](img\PYKT13007_22.png) .
+***Yêu cầu:*** Cho ma trận ![](./img/PYKT13007_6.png)  kích thước ![](./img/PYKT13007_20.png)  và số nguyên dương ![](./img/PYKT13007_21.png) , hãy tính *+..+*![](./img/PYKT13007_22.png) .
 
 **Input:**
 
@@ -3798,7 +3798,7 @@ Ví dụ,
  
 **Output:**
 
-In ra n dòng, mỗi dòng ![](img\PYKT13007_23.png)  số mô tả ma trận ![](img\PYKT13007_8.png) , vì giá trị mỗi phần tử của ma trận ![](img\PYKT13007_8.png)  có thể rất lớn, do đó chỉ cần đưa ra chữ số cuối cùng của từng phần tử của ma trận ![](img\PYKT13007_8.png) .
+In ra n dòng, mỗi dòng ![](./img/PYKT13007_23.png)  số mô tả ma trận ![](./img/PYKT13007_8.png) , vì giá trị mỗi phần tử của ma trận ![](./img/PYKT13007_8.png)  có thể rất lớn, do đó chỉ cần đưa ra chữ số cuối cùng của từng phần tử của ma trận ![](./img/PYKT13007_8.png) .
 
 **Ví dụ:**
 
@@ -3810,7 +3810,7 @@ In ra n dòng, mỗi dòng ![](img\PYKT13007_23.png)  số mô tả ma trận ![
 
 Giải hệ phương trình Ax = B trong đó ma trận A có kích thước n x n, x và B là các vector cột có n phần tử:
 
-![](img\PYKT13008_0.png)
+![](./img/PYKT13008_0.png)
 
 **Input:**
 
@@ -3838,7 +3838,7 @@ Với mỗi test in ra đáp án tìm được trên một dòng, in ra 3 chữ 
 
 Cho 2 số nguyên n và K. Hãy tính giá trị biểu thức
 
-![](img\PYKT13009_0.png)
+![](./img/PYKT13009_0.png)
 
  theo modulo 109+7.
 
@@ -3862,7 +3862,7 @@ Với mỗi test, in ra đáp án tìm được theo modulo 109 + 7.
 
 Cho 2 số nguyên n và K. Hãy tính giá trị biểu thức
 
-![](img\PYKT13010_0.png)
+![](./img/PYKT13010_0.png)
 
 theo modulo 109+7.
 
@@ -3996,7 +3996,7 @@ Cho các số nguyên a, b, c, d và M.
 
 Hãy tính giá trị biểu thức
 
-![](img\PYKT13015_0.png)
+![](./img/PYKT13015_0.png)
 
  theo modulo M.
 
@@ -4100,7 +4100,7 @@ Cách tốt nhất là thuê 2 xe có sức chứa 3 người. Khi đó đội q
 
 Chuyện kể rằng ở một hiệu sách nọ, có 1 ông chủ đã già nên trí nhớ kém. Một hôm anh shipper đến để kiểm kê lại sách trước khi đem giao. Xui cho anh shipper là ông chủ trí nhớ lẩm cẩm, lại không nhớ hóa đơn mua sách để đâu và đã quên béng mất số lượng sách cần phải giao. Thật may là ông còn 1 vài chi tiết ông còn nhớ. Ở cửa hàng của mình, ông có các miếng bìa cát tông, khi có sách về, ông sẽ "tái chế " chúng để đựng sách. Với mỗi miếng bìa các tông hình chữ nhật có chiều dài 2 cạnh là a và b, ông sẽ cắt 4 góc của miếng bìa các tông sau đó dựng lên để thành 1 hình hộp chữ nhật. Xem hình dưới để biết thêm chi tiết :
 
-![](img\PYKT13026_0.png)
+![](./img/PYKT13026_0.png)
 
 Dễ dàng thấy được rằng với mỗi cách cắt 4 góc ta sẽ được 1 hình hộp chữ nhật với thể tích khác nhau (đương nhiên vẫn phải đảm bảo chiều dài các cạnh &gt; 0). Ông chủ nhớ được rằng, với 3 loại hộp có thể tích lớn nhất, khi ông xếp tất cả số sách phải ship vào loại lớn nhất thì sẽ bị dư ra x cuốn sách, nếu xếp vào loại lớn thứ 2 thì sẽ dư ra y cuốn sách, xếp vào loại lớn thứ 3 thì sẽ dư ra z cuốn sách. (Ta coi mỗi cuốn sách là 1 hình lập phương 1x1x1) Ông cũng nhớ là số sách nằm trong khoảng từ l đến r (tính cả l và r). Lần này anh shipper thật sự bất lực và cầu cứu bạn, là một lập trình viên đại tài, bạn có thể giúp anh ấy tìm ra được số sách cần phải ship không ?
 
@@ -4138,7 +4138,7 @@ Tương tự với 2 loại còn lại.
 
 Cho N tam giác trên mặt phẳng Oxy. Nhiệm vụ của bạn là hãy tính diện tích bị che phủ bởi N tam giác này.
 
-![](img\PYKT13034_0.png)
+![](./img/PYKT13034_0.png)
 
 **Input:**
 
@@ -4354,7 +4354,7 @@ Ví dụ với dãy bit 101101001110 và cách cắt 10 | 11 | 010 | 01 | 1 | 10
 
 Kí hiệu f(K) là số cách cắt đẹp với K lát cắt.
 
-Bạn hãy tính giá trị ![](img\PYKT14034_0.png) theo modulo 109+7.
+Bạn hãy tính giá trị ![](./img/PYKT14034_0.png) theo modulo 109+7.
 
 **Input:**
 
@@ -5547,7 +5547,7 @@ Một dòng duy nhất gồm một xâu kí tự S không quá 10000 ký tự, c
 
 Bài toán Tháp Hà Nội đã rất nổi tiểng. Bắt đầu có các đĩa xếp chồng lên cột A theo thứ tự kích thước giảm dần, nhỏ nhất ở trên cùng. Cột B và cột C ban đầu không có đĩa nào cả.
 
-![](img\PY01046_0.png)
+![](./img/PY01046_0.png)
 
 Mục tiêu của bạn là di chuyển toàn bộ các đĩa theo đúng thứ tự về cột C, tuân theo các quy tắc sau:
 
@@ -6658,7 +6658,7 @@ Sử dụng lớp Point đã có trong bài 1, khai báo lớp Triangle với th
 
 *Công thức Heron tính diện tích tam giác khi biết độ dài 3 cạnh là a,b,c:*
 
-![](img\PY04006_0.png)
+![](./img/PY04006_0.png)
 
 **Input**
 
@@ -6897,7 +6897,7 @@ Trong trường hợp điểm trung bình bằng nhau thì học sinh nào có m
 
 Tiền nước hàng tháng của thành phố ABC được tính theo đơn giá trong bảng sau:
 
-![](img\PY04015_0.png)
+![](./img/PY04015_0.png)
 
 Trong đó, phụ phí được hiểu là số tiền tính thêm (theo phần trăm) trên tổng số tiền nước tiêu thụ.
 
@@ -6933,7 +6933,7 @@ Ghi ra danh sách khách hàng đã sắp xếp theo tổng tiền giảm dần 
 
 Khách sạn XYZ có đơn giá (theo ngày) được quy định khác nhau theo từng tầng. Khách hàng đến thuê phòng sẽ được tính tổng số tiền ở theo đơn giá cộng thêm chi phí dịch vụ phát sinh nếu có.
 
-![](img\PY04016_0.png)
+![](./img/PY04016_0.png)
 
 Hãy giúp khách sạn tính tiền phải trả cho từng khách hàng và sắp xếp theo thứ tự tổng tiền giảm dần.
 
@@ -7002,7 +7002,7 @@ Trường THPT ACB tuyển giáo viên mới cho ba môn Toán, Lý, Hóa. Theo 
 
 Mỗi GV có thể có điểm ưu tiên được xét theo mã như trong bảng sau:
 
-![](img\PY04018_0.png)
+![](./img/PY04018_0.png)
 
 Mã xét tuyển gồm 2 thành phần. Chữ cái đầu tiên ứng với môn học: A là Toán, B là Lý và C là Hóa; tiếp theo là 1 chữ số thể hiện mã ưu tiên.
 
@@ -7255,7 +7255,7 @@ Công ty XYZ mỗi năm đều cập nhật hồ sơ và gán lại mã cho nhâ
  
 Dựa trên loại nhân viên và số năm công tác, hệ số nhân để tính lương được cho trong bảng sau:
 
-![](./img\PYKT094_0.png)
+![](./img/PYKT094_0.png)
 
 Mỗi nhân viên theo hợp đồng sẽ có một giá trị lương cơ bản có thể rất khác nhau. Lương tháng được tính bằng tích của lương cơ bản với số ngày công và hệ số nhân.
 
@@ -7391,11 +7391,11 @@ Với mỗi test, in ra “YES” nếu tìm được đường tròn chứa đ�
 
 Bắt đầu từ một hình tròn lớn nội tiếp tam giác vuông (hình 1) người ta thử vẽ thêm các hình tròn nhỏ hơn tiếp xúc với cạnh huyền, cạnh góc vuông của tam giác và tiếp xúc với đường tròn lớn ban đầu (hình 2).
 
-![](img\PYKT13039_0.png)
+![](./img/PYKT13039_0.png)
 
 Hình 1: Hình tròn nội tiếp tam giác vuông
 
-![](img\PYKT13039_1.png)
+![](./img/PYKT13039_1.png)
 
 Hình 2: Vẽ thêm hình tròn thứ 2 tiếp xúc hình tròn thứ nhất và hai cạnh của tam giác
 
@@ -7421,7 +7421,7 @@ Ghi ra tỉ lệ diện tích của tất cả các hình tròn trên diện tí
 
 Với 8 hình tròn có kích thước bằng nhau, người ta có thể xếp 8 hình tròn này vào một hình vuông theo cách như hình dưới đây.
 
-![](img\PYKT13040_0.png)
+![](./img/PYKT13040_0.png)
 
 Bài toán đặt ra là cho trước kích thước hình vuông, hãy tính **độ dài bán kích lớn nhất có thể** của 8 hình tròn bằng nhau có thể xếp vào hình vuông đó.
 
